@@ -8,6 +8,10 @@
 
 `npx prisma db push`
 
+Always the DB Schema is changed, run the code below to generate the Updated Prisma Client.
+
+`npx prisma generate`
+
 #### Up the Prisma Studio do View the Database Data:
 
 `npx prisma studio`
